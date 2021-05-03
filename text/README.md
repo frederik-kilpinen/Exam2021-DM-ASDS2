@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Testing a citation [[1]](#1) and another one [[2]](#2) 
+Testing a citation [[1]](#1) and another one [[2]](#2) and a third [[3]](#3)
 
 ## References
 <a id="1">[1]</a> 
@@ -11,4 +11,7 @@ Kozlowski, A. C., Taddy, M., & Evans, J. A. (2019). *The geometry of culture: An
 
 <a id="2">[2]</a> 
 Slapin, J. B., & Proksch, S. O. (2008). *A scaling model for estimating time‐series party positions from texts*. American Journal of Political Science, 52(3), 705-722.
+
+<a id="3">[3]</a> 
+Barberá, P. (2015). _Birds of the same feather tweet together: Bayesian ideal point estimation using Twitter data_. Political analysis, 23(1), 76-91.
 
