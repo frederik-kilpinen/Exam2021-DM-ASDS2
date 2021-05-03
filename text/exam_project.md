@@ -28,7 +28,7 @@ Slapin, J. B., & Proksch, S. O. (2008). *A scaling model for estimating time‐s
 Barberá, P. (2015). _Birds of the same feather tweet together: Bayesian ideal point estimation using Twitter data_. Political analysis, 23(1), 76-91.
 
 <a id="4">[4]</a> 
-Birkland, T. A. (1998). Focusing events, mobilization, and agenda setting. Journal of public policy, 53-74.
+Birkland, T. A. (1998). *Focusing events, mobilization, and agenda setting*. Journal of public policy, 53-74.
 
 <a id="5">[5]</a> 
-Boin, A., 't Hart, P., & McConnell, A. (2009). Crisis exploitation: political and policy impacts of framing contests. Journal of European public policy, 16(1), 81-106.
+Boin, A., 't Hart, P., & McConnell, A. (2009). *Crisis exploitation: political and policy impacts of framing contests*. Journal of European public policy, 16(1), 81-106.
