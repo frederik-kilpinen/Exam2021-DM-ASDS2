@@ -1,5 +1,5 @@
 # Mapping the Climate Debate During the 2019-2020 Australian Bush-Fires
-*author: Frederik, Connor, Matias, Lukas*
+*Authors: Frederik, Connor, Matias, Lukas*
 
 ## Introduction
 
