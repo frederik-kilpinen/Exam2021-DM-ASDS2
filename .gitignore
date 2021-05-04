@@ -4,3 +4,5 @@
 __pycache__/AppCred.cpython-38.pyc
 AppCred.py
 pickled_tweets_2021-05-03.data
+Notebooks/.ipynb_checkpoints/AppCred-checkpoint.py
+Notebooks/pickled_tweets_2021-05-04.data
