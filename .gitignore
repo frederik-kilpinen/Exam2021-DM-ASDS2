@@ -15,3 +15,7 @@ Notebooks/.ipynb_checkpoints/network-checkpoint.eps
 Notebooks/data/mp_tweets
 Notebooks/data/pickled_tweets_2021-05-04.data
 Notebooks/data/tweets_subset
+*.jpg
+*.gif
+Notebooks/data/image_tweets
+Notebooks/.ipynb_checkpoints/image_classification-checkpoint.ipynb
