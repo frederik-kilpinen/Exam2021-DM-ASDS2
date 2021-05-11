@@ -19,3 +19,4 @@ Notebooks/data/tweets_subset
 *.gif
 Notebooks/data/image_tweets
 Notebooks/.ipynb_checkpoints/image_classification-checkpoint.ipynb
+Notebooks/.ipynb_checkpoints/Topic_Model-checkpoint.ipynb
