@@ -27,21 +27,18 @@ During the period
 
 ## 3. Research Design
 
-In this section we outline the overall research design 
+In this section we outline the overall research design of our study. 
 
 
 ### 3.1 Data Collection
 
-```flow
-st=>start: Start
-op=>operation: Your Operation
-cond=>condition: Yes or No?
-e=>end
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
-​```
+
 
 ## 4. Nethnography
 
