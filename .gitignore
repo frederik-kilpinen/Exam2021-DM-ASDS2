@@ -72,3 +72,4 @@ Notebooks/topic_prop.pdf
 Notebooks/hashtagplot.svg
 Notebooks/lda_topicprop.png
 Notebooks/mp_tweets
+*.ipynb
