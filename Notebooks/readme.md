@@ -1,6 +1,6 @@
 # Code Description
 
-This directory contains all the Python code used for our project. The code is organized in Jupyter notebooks corresponding to the different steps of data collection, data processing and methods. More detailed descriptions of the code is given in the begining of each notebook.
+This directory contains all the Python code used for our project. The code is organized in Jupyter notebooks corresponding to the different steps of data collection, data processing and methods. More detailed descriptions of the code is given in each notebook.
 
 1. data_collection: Code used for collecting tweets from Australian MPs.
 2. data_processing: Code for preprocessing the data. This includes cleaning, merging with external data containing info about MPs and doing text-preprocessing.
