@@ -1,4 +1,4 @@
-# Readme
+# Description
 
 This repository contains all the Python code and Latex files used for our project. The code is stored in the directory "Notebooks" and organized in Jupyter notebooks corresponding to the different steps of data collection, data processing and methods. More detailed descriptions of the code is given in each notebook.
 
